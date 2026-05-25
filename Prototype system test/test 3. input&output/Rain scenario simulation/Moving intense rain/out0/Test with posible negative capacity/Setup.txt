@@ -1,0 +1,4 @@
+obj.Vmax = [693*obj.mm3toliter(1); 700*obj.mm3toliter(2); 510*obj.mm3toliter(3)] - obj.offset; 
+
+r(1:2) = max(r(1:2),0); 
+

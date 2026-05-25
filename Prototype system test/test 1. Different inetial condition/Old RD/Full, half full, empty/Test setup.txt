@@ -1,0 +1,3 @@
+lu44 full = 0 remaining capacity i.e water  level = 695mm
+lu43 half full = ca 7 litres remaining capaciyy i.e water level = 565mm
+lu41 empty = ca 17 liters remaining capacity i.e water level = 150mm

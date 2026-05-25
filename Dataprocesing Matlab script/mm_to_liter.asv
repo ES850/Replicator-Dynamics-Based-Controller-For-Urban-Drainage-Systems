@@ -1,0 +1,9 @@
+LU31_mm_to_liter = 40.4/(267-114)
+LU31_efective_capacity = LU31_mm_to_liter*(600-50)
+
+LU34_mm_to_liter = 40.4/(391-239)
+LU34_efective_capacity = LU31_mm_to_liter*(600-50)
+
+LU43_outer_mm_to_liter = 40.4/(397-212)
+LU43_efective_capacity = LU43_outer_mm_to_liter*(560-60)
+

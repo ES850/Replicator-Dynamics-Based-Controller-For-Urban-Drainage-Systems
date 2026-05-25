@@ -1,0 +1,10 @@
+LU44
+t0=10, t1=70, t2= 160, t3=360
+ref1=5, ref2=5, ref3=5
+
+LU43
+t0=10, t1=70, t2= 160, t3=360
+ref1=5, ref2=20, ref3=5
+
+LU41
+processing = 9 l/min
